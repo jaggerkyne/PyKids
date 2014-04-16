@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e73107f4-6025-4f01-af22-a7285ae3fcd1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter_12/using_tkinter.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PyKids.iws" />
@@ -514,7 +513,11 @@
       <created>1397638755219</created>
       <updated>1397638755219</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Just got to Using Named Parameters.">
+      <created>1397641153970</created>
+      <updated>1397641153970</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -554,7 +557,8 @@
     <MESSAGE value="Finish Chapter 10" />
     <MESSAGE value="Tidy up codes for chapter 1 and chapter 2" />
     <MESSAGE value="Finish Chapter 11." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish Chapter 11." />
+    <MESSAGE value="Just got to Using Named Parameters." />
+    <option name="LAST_COMMIT_MESSAGE" value="Just got to Using Named Parameters." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
