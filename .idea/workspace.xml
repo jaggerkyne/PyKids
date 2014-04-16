@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e73107f4-6025-4f01-af22-a7285ae3fcd1" name="Default" comment="" />
+    <list default="true" id="e73107f4-6025-4f01-af22-a7285ae3fcd1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="PyKids.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,15 +16,15 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PyKids$using_class.coverage" NAME="using_class Coverage Results" MODIFIED="1397381231488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8" />
-    <SUITE FILE_PATH="coverage/PyKids$using_functions.coverage" NAME="using_functions Coverage Results" MODIFIED="1397372469916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_7" />
     <SUITE FILE_PATH="coverage/PyKids$built_in_functions.coverage" NAME="built-in_functions Coverage Results" MODIFIED="1397470808818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9" />
+    <SUITE FILE_PATH="coverage/PyKids$using_functions.coverage" NAME="using_functions Coverage Results" MODIFIED="1397372469916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_7" />
     <SUITE FILE_PATH="coverage/PyKids$chap6_puzzles.coverage" NAME="chap6_puzzles Coverage Results" MODIFIED="1397371503714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6" />
     <SUITE FILE_PATH="coverage/PyKids$chap8_task2_turtle_pitchfork.coverage" NAME="chap8_task2_turtle_pitchfork Coverage Results" MODIFIED="1397383596533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8" />
-    <SUITE FILE_PATH="coverage/PyKids$chap7_puzzles.coverage" NAME="chap7_puzzles Coverage Results" MODIFIED="1397375033034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_7" />
-    <SUITE FILE_PATH="coverage/PyKids$chap5_puzzles.coverage" NAME="chap5_puzzles Coverage Results" MODIFIED="1396675754796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5" />
     <SUITE FILE_PATH="coverage/PyKids$chp_09_puzzles.coverage" NAME="chp_09_puzzles Coverage Results" MODIFIED="1397553657112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9" />
-    <SUITE FILE_PATH="coverage/PyKids$using_modules.coverage" NAME="using_modules Coverage Results" MODIFIED="1397627898008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_10" />
+    <SUITE FILE_PATH="coverage/PyKids$chap5_puzzles.coverage" NAME="chap5_puzzles Coverage Results" MODIFIED="1396675754796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5" />
+    <SUITE FILE_PATH="coverage/PyKids$chap7_puzzles.coverage" NAME="chap7_puzzles Coverage Results" MODIFIED="1397375033034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_7" />
     <SUITE FILE_PATH="coverage/PyKids$loops.coverage" NAME="loops Coverage Results" MODIFIED="1396677932798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6" />
+    <SUITE FILE_PATH="coverage/PyKids$using_modules.coverage" NAME="using_modules Coverage Results" MODIFIED="1397627898008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_10" />
     <SUITE FILE_PATH="coverage/PyKids$chap8_puzzles.coverage" NAME="chap8_puzzles Coverage Results" MODIFIED="1397382356711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -36,10 +39,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="using_modules.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="using_modules.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_10/using_modules.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="227" column="63" selection-start="6303" selection-end="6303" vertical-scroll-proportion="0.66741073" vertical-offset="3106" max-vertical-offset="3615">
+            <state line="227" column="63" selection-start="6303" selection-end="6303" vertical-scroll-proportion="0.0" vertical-offset="2910" max-vertical-offset="3615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="15" selection-start="497" selection-end="497" vertical-scroll-proportion="0.25821596" vertical-offset="0" max-vertical-offset="639">
               <folding />
             </state>
           </provider>
@@ -77,6 +92,7 @@
         <option value="$PROJECT_DIR$/Chapter_9/chp_09_puzzles.py" />
         <option value="$PROJECT_DIR$/Chapter_09/chp_09_puzzles.py" />
         <option value="$PROJECT_DIR$/Chapter_10/using_modules.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -144,7 +160,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PyKids" />
+              <option name="myItemId" value="Python_For_Kids" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -157,13 +173,13 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="terminal" />
+    <property name="recentsLimit" value="5" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../python" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -357,9 +373,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,6 +394,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -469,14 +485,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="829" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957748" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28879312" sideWeight="0.67277855" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29310346" sideWeight="0.67277855" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -503,11 +519,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter_06/chap6_puzzles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="16" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="915" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_05/chap5_puzzles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="38" selection-start="548" selection-end="548" vertical-scroll-proportion="0.6462264" vertical-offset="176" max-vertical-offset="600" />
@@ -580,7 +591,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_10/using_modules.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="227" column="63" selection-start="6303" selection-end="6303" vertical-scroll-proportion="0.66741073" vertical-offset="3106" max-vertical-offset="3615">
+        <state line="227" column="63" selection-start="6303" selection-end="6303" vertical-scroll-proportion="0.0" vertical-offset="2910" max-vertical-offset="3615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="15" selection-start="497" selection-end="497" vertical-scroll-proportion="0.25821596" vertical-offset="0" max-vertical-offset="639">
           <folding />
         </state>
       </provider>
