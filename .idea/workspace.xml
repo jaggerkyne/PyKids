@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e73107f4-6025-4f01-af22-a7285ae3fcd1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chaper_01-02/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/coins.py" afterPath="$PROJECT_DIR$/Chaper_01-02/coins.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloworld.py" afterPath="$PROJECT_DIR$/Chaper_01-02/helloworld.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lists.py" afterPath="$PROJECT_DIR$/Chaper_01-02/lists.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/map.py" afterPath="$PROJECT_DIR$/Chaper_01-02/map.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/myletter.py" afterPath="$PROJECT_DIR$/Chaper_01-02/myletter.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tuples.py" afterPath="$PROJECT_DIR$/Chaper_01-02/tuples.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter_11/Chap_11_puzzles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter_11/more_turtle.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PyKids.iws" />
@@ -21,16 +16,18 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PyKids$using_class.coverage" NAME="using_class Coverage Results" MODIFIED="1397381231488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8" />
     <SUITE FILE_PATH="coverage/PyKids$built_in_functions.coverage" NAME="built-in_functions Coverage Results" MODIFIED="1397470808818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9" />
-    <SUITE FILE_PATH="coverage/PyKids$using_functions.coverage" NAME="using_functions Coverage Results" MODIFIED="1397372469916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_7" />
     <SUITE FILE_PATH="coverage/PyKids$chap6_puzzles.coverage" NAME="chap6_puzzles Coverage Results" MODIFIED="1397371503714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6" />
+    <SUITE FILE_PATH="coverage/PyKids$more_turtle.coverage" NAME="more_turtle Coverage Results" MODIFIED="1397637572173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_11" />
     <SUITE FILE_PATH="coverage/PyKids$chap8_task2_turtle_pitchfork.coverage" NAME="chap8_task2_turtle_pitchfork Coverage Results" MODIFIED="1397383596533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8" />
-    <SUITE FILE_PATH="coverage/PyKids$chp_09_puzzles.coverage" NAME="chp_09_puzzles Coverage Results" MODIFIED="1397553657112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9" />
-    <SUITE FILE_PATH="coverage/PyKids$chap5_puzzles.coverage" NAME="chap5_puzzles Coverage Results" MODIFIED="1396675754796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5" />
     <SUITE FILE_PATH="coverage/PyKids$chap7_puzzles.coverage" NAME="chap7_puzzles Coverage Results" MODIFIED="1397375033034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_7" />
-    <SUITE FILE_PATH="coverage/PyKids$loops.coverage" NAME="loops Coverage Results" MODIFIED="1396677932798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6" />
+    <SUITE FILE_PATH="coverage/PyKids$chap5_puzzles.coverage" NAME="chap5_puzzles Coverage Results" MODIFIED="1396675754796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5" />
     <SUITE FILE_PATH="coverage/PyKids$using_modules.coverage" NAME="using_modules Coverage Results" MODIFIED="1397627898008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_10" />
+    <SUITE FILE_PATH="coverage/PyKids$loops.coverage" NAME="loops Coverage Results" MODIFIED="1396677932798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6" />
+    <SUITE FILE_PATH="coverage/PyKids$using_class.coverage" NAME="using_class Coverage Results" MODIFIED="1397381231488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8" />
+    <SUITE FILE_PATH="coverage/PyKids$using_functions.coverage" NAME="using_functions Coverage Results" MODIFIED="1397372469916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_7" />
+    <SUITE FILE_PATH="coverage/PyKids$chp_09_puzzles.coverage" NAME="chp_09_puzzles Coverage Results" MODIFIED="1397553657112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9" />
+    <SUITE FILE_PATH="coverage/PyKids$Chap_11_puzzles.coverage" NAME="Chap_11_puzzles Coverage Results" MODIFIED="1397638397677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_11" />
     <SUITE FILE_PATH="coverage/PyKids$Chap_10_puzzles.coverage" NAME="Chap_10_puzzles Coverage Results" MODIFIED="1397631986050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_10" />
     <SUITE FILE_PATH="coverage/PyKids$chap8_puzzles.coverage" NAME="chap8_puzzles Coverage Results" MODIFIED="1397382356711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8" />
   </component>
@@ -46,34 +43,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="using_modules.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_10/using_modules.py">
+      <file leaf-file-name="more_turtle.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_11/more_turtle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="233" column="28" selection-start="6308" selection-end="6602" vertical-scroll-proportion="-12.12" vertical-offset="3192" max-vertical-offset="3615">
+            <state line="62" column="23" selection-start="1145" selection-end="1275" vertical-scroll-proportion="-4.730769" vertical-offset="684" max-vertical-offset="2625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
+      <file leaf-file-name="Chap_11_puzzles.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter_11/Chap_11_puzzles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="17" selection-start="702" selection-end="702" vertical-scroll-proportion="-5.892857" vertical-offset="0" max-vertical-offset="255">
+            <state line="29" column="15" selection-start="567" selection-end="578" vertical-scroll-proportion="0.33035713" vertical-offset="287" max-vertical-offset="750">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chap_10_puzzles.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter_10/Chap_10_puzzles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="26" selection-start="1173" selection-end="1173" vertical-scroll-proportion="0.8995536" vertical-offset="197" max-vertical-offset="735">
-              <folding>
-                <element signature="e#126#137#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -96,8 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Chapter_5/chap5_puzzles.py" />
-        <option value="$PROJECT_DIR$/Chapter_6/loops.py" />
         <option value="$PROJECT_DIR$/Chapter_6/chap6_puzzles.py" />
         <option value="$PROJECT_DIR$/Chapter_7/using_functions.py" />
         <option value="$PROJECT_DIR$/Chapter_7/using_modules.py" />
@@ -112,10 +93,13 @@
         <option value="$PROJECT_DIR$/Chapter_10/using_modules.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Chapter_10/Chap_10_puzzles.py" />
+        <option value="$PROJECT_DIR$/Chapter_11/more_turtle.py" />
+        <option value="$PROJECT_DIR$/Chapter_11/Chap_11_puzzles.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="14" />
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
@@ -183,6 +167,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyKids" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_For_Kids" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -213,45 +211,7 @@
       <recent name="$PROJECT_DIR$/Chapter_3_puzzels/puzzels" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Chap_10_puzzles">
-    <configuration default="false" name="chap8_task2_turtle_pitchfork" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyKids" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_8/chap8_task2_turtle_pitchfork.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="built-in_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyKids" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_9/built-in_functions.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Chap_11_puzzles">
     <configuration default="false" name="chp_09_puzzles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,6 +264,44 @@
       <module name="PyKids" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_10/Chap_10_puzzles.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="more_turtle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyKids" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_11/more_turtle.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Chap_11_puzzles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyKids" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_11/Chap_11_puzzles.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -460,19 +458,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.chap8_task2_turtle_pitchfork" />
-      <item index="1" class="java.lang.String" itemvalue="Python.built-in_functions" />
-      <item index="2" class="java.lang.String" itemvalue="Python.chp_09_puzzles" />
-      <item index="3" class="java.lang.String" itemvalue="Python.using_modules" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Chap_10_puzzles" />
+      <item index="0" class="java.lang.String" itemvalue="Python.chp_09_puzzles" />
+      <item index="1" class="java.lang.String" itemvalue="Python.using_modules" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Chap_10_puzzles" />
+      <item index="3" class="java.lang.String" itemvalue="Python.more_turtle" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Chap_11_puzzles" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Chap_10_puzzles" />
-        <item index="1" class="java.lang.String" itemvalue="Python.using_modules" />
-        <item index="2" class="java.lang.String" itemvalue="Python.chp_09_puzzles" />
-        <item index="3" class="java.lang.String" itemvalue="Python.built-in_functions" />
-        <item index="4" class="java.lang.String" itemvalue="Python.chap8_task2_turtle_pitchfork" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Chap_11_puzzles" />
+        <item index="1" class="java.lang.String" itemvalue="Python.more_turtle" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Chap_10_puzzles" />
+        <item index="3" class="java.lang.String" itemvalue="Python.using_modules" />
+        <item index="4" class="java.lang.String" itemvalue="Python.chp_09_puzzles" />
       </list>
     </recent_temporary>
   </component>
@@ -517,12 +515,16 @@
       <created>1397632415732</created>
       <updated>1397632415732</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tidy up codes for chapter 1 and chapter 2">
+      <created>1397632813390</created>
+      <updated>1397632813390</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="829" extended-state="6" />
-    <editor active="false" />
+    <frame x="14" y="22" width="1440" height="829" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -530,7 +532,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.67277855" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29310346" sideWeight="0.67277855" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29310346" sideWeight="0.67277855" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -555,27 +557,13 @@
     <MESSAGE value="Add some description to the project." />
     <MESSAGE value="Fixing some grammatical errors to the Readme file." />
     <MESSAGE value="Finish Chapter 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish Chapter 10" />
+    <MESSAGE value="Tidy up codes for chapter 1 and chapter 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tidy up codes for chapter 1 and chapter 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter_06/loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="32" selection-start="1239" selection-end="1239" vertical-scroll-proportion="1.0751173" vertical-offset="352" max-vertical-offset="1035" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_07/using_modules.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="35" selection-start="447" selection-end="447" vertical-scroll-proportion="0.53452116" vertical-offset="0" max-vertical-offset="449" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_08/using_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="474" selection-end="1404" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_06/chap6_puzzles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="24" selection-start="855" selection-end="855" vertical-scroll-proportion="0.63474387" vertical-offset="315" max-vertical-offset="915" />
@@ -626,16 +614,6 @@
         <state line="48" column="25" selection-start="1005" selection-end="1005" vertical-scroll-proportion="0.65675056" vertical-offset="433" max-vertical-offset="870" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="702" selection-end="702" vertical-scroll-proportion="-5.892857" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_10/using_modules.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="233" column="28" selection-start="6308" selection-end="6602" vertical-scroll-proportion="-12.12" vertical-offset="3192" max-vertical-offset="3615">
@@ -646,9 +624,36 @@
     <entry file="file://$PROJECT_DIR$/Chapter_10/Chap_10_puzzles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="26" selection-start="1173" selection-end="1173" vertical-scroll-proportion="0.8995536" vertical-offset="197" max-vertical-offset="735">
-          <folding>
-            <element signature="e#126#137#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="702" selection-end="702" vertical-scroll-proportion="0.4054054" vertical-offset="0" max-vertical-offset="407">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_11/more_turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="23" selection-start="1145" selection-end="1275" vertical-scroll-proportion="-4.730769" vertical-offset="684" max-vertical-offset="2625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_11/Produced_by_draw_a_star().png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_11/Chap_11_puzzles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="15" selection-start="567" selection-end="578" vertical-scroll-proportion="0.33035713" vertical-offset="287" max-vertical-offset="750">
+          <folding />
         </state>
       </provider>
     </entry>
