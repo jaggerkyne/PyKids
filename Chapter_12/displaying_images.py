@@ -9,7 +9,7 @@ canvas.pack()
 # load the image,
 # my_image = PhotoImage(file='sonic.gif') # somehow the link address is invalid
 # photoImage() only support gif and PGM/PPM formats, if you want to use jpg, you need to
-# use "from PIL import Image, ImageTk" 
+# use "from PIL import Image, ImageTk"
 samuel = PhotoImage(file='/Users/Wilson/Documents/Sites/Python_For_Kids/Chapter_12/test.gif')
 
 # If the images store in a particular folder, what should I write for the address?

@@ -10,4 +10,4 @@ canvas.create_polygon(10,10,10,60,50,35)
 canvas.move(1,5,0)
 
 mytriangle = canvas.create_polygon(10,10,10,60,50,35)
-#canvas.move(mytriangle,5,0)
+canvas.move(mytriangle,5,0)

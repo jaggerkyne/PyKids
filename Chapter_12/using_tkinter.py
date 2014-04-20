@@ -7,6 +7,8 @@ from tkinter import *
 import random
 
 
+
+
 def say_hello():
     print("Hello, my friend")
 
@@ -53,14 +55,30 @@ def draw_a_rectangle():
     canvas.pack() # display itself in the correct position within the windows.
     canvas.create_rectangle(10,10,300,50) # draw a square in the top-left corner of the window
 
-def draw_random_rectangles(width,height):
+def draw_random_rectangles(width,height,fill_color):
     tk=Tk()
     canvas = Canvas(tk,width=500,height=500)
     canvas.pack()
-    x1 = random.randrange(width)
+    x1 = random.randrange(width) # set x1's range within the range of width.
     y1 = random.randrange(height)
     x2 = x1 + random.randrange(width)
     y2 = y1 + random.randrange(height)
-    canvas.create_rectangle(x1,y1,x2,y2)
+    canvas.create_rectangle(x1,y1,x2,y2,fill=fill_color)
 
-draw_random_rectangles(400,400)
+draw_random_rectangles(400,400,'red')
+
+# converting a decimal number 15 to hexadecimal using code below:
+
+print('%x' % 15)
+
+# To make sure our number bas at least two digits, using this format:
+
+print('%02x' % 15)
+
+# Drawing ARCs
+
+def draw_an_arc():
+    tk=Tk()
+    canvas = Canvas(tk,width=500,height=500)
+    canvas.pack()
+    canvas.create_arc(10,10,200,100,extent=180, style=ARC)
