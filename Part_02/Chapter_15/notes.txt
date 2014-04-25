@@ -1,0 +1,7 @@
+When you develop programs, you should have a plan.
+
+Plan should include:
+    description what the program is about.
+    programs major elements and characters.
+
+
