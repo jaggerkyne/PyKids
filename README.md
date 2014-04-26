@@ -9,4 +9,6 @@ I found [this book](http://www.amazon.com/gp/product/B00ADX21Z6/ref=as_li_ss_tl?
 
 If you want to learn the python programming language or just want to get started in programming, this is a great book to get started.
 
+My 2 cents for the author: if you can explain the coordinate of the graphic a bit better it would be great to following along.
+
 JaggerKyne April 2014
